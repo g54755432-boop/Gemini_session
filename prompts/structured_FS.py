@@ -1,9 +1,9 @@
-#ZEro shot prompting
+# ZEro shot prompting
 
 from openai import OpenAI
 
 client = OpenAI(
-    api_key="AIzaSyDAzL3v5aVOOShYGXRO7Nhyt8FS9aqFvuk",
+    api_key="AIzaSyDErZJP4Cb2adkGUZz-Y39LCcyJq0NzEfs",
     base_url="https://generativelanguage.googleapis.com/v1beta/"
 )
 
